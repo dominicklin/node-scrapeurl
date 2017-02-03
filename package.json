@@ -1,0 +1,29 @@
+{
+  "name": "scrapeurl",
+  "version": "1.0.0",
+  "description": "A simple nodejs web scraper util that is more capable of scraping sites with anti-scraper functionality.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awayisblue/node-scrapeurl.git"
+  },
+  "keywords": [
+    "scrapeurl",
+    "scraper",
+    "crawler",
+    "spider",
+    "node-scraper"
+  ],
+  "author": "awayisblue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awayisblue/node-scrapeurl/issues"
+  },
+  "homepage": "https://github.com/awayisblue/node-scrapeurl#readme",
+  "dependencies": {
+    "superagent": "^3.4.1"
+  }
+}
