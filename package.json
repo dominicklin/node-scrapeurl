@@ -1,6 +1,6 @@
 {
   "name": "scrapeurl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple nodejs web scraper util that is more capable of scraping sites with anti-scraper functionality.",
   "main": "lib/index.js",
   "scripts": {
